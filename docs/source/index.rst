@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Lixi88 - lixi88a.com - Nhà cái Lixi88 đẳng cấp, uy tín hàng đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Lixi88 <https://lixi88a.com/>`_ - Nhà cái Lixi88 đẳng cấp, uy tín hàng đầu Châu Á. Tặng tiền lên tới 188k cho thành viên mới đăng ký ngay hôm nay. Tham gia ngay nào!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 4 Phố Vọng, phường Đồng Tâm, quận Đống Đa, Hà Nội. 
 
-   This project is under active development.
+Phone: 0793478300. 
 
-Contents
---------
+Email: info@lixi88a.com. 
 
-.. toctree::
+Website: https://lixi88a.com/
 
-   usage
-   api
+#lixi88 #nhacailixi88 #trangchulixi88 #dangkylixi88 #linklixi88
